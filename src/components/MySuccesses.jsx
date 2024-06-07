@@ -40,9 +40,9 @@ const MySuccesses = () => {
                 galleryId={'nature'}
                 autoplayFirstVideo={false}
                 elementClassNames={'gallery'}
+                download={false}
                 mobileSettings={{
                   controls: false,
-                  showCloseIcon: false,
                   download: false,
                   rotate: false,
                 }}
