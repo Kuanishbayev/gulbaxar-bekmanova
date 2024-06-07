@@ -1,13 +1,13 @@
 import BlogSection from "../components/BlogSection"
-import Contact from "../components/Contact"
 import Hero from "../components/Hero"
+import MySuccesses from "../components/MySuccesses"
 
 const Home = () => {
   return (
     <>
         <Hero />
         <BlogSection />
-        <Contact />
+        <MySuccesses />
     </>
   )
 }

@@ -36,7 +36,7 @@ const Navbar = () => {
                     <a href="#blogs">Blogs</a>
                 </li>
                 <li>
-                    <a href="#contact">Contact Us</a>
+                    <a href="#my-successes">My successes</a>
                 </li>
             </ul>
             <div className={location.pathname != '/' ? 'hidden' : 'lg:hidden'} onClick={() => setMenu(prev => !prev)}>
@@ -50,7 +50,7 @@ const Navbar = () => {
                     <a href="#blogs">Blogs</a>
                 </li>
                 <li>
-                    <a href="#contact">Contact Us</a>
+                    <a href="#my-successes">My successes</a>
                 </li>
             </ul>
             </div>
