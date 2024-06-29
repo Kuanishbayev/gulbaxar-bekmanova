@@ -16,6 +16,8 @@ import img2 from '../assets/my-successes/76.Bekmanova Gulbahar_page-0001.jpg'
 import img3 from '../assets/my-successes/Bekmanova G._page-0001.jpg'
 import img4 from '../assets/my-successes/Bekmanova-Gulbaxar-Begdullaevna_page-0001.jpg'
 import img5 from '../assets/my-successes/Бекманова_Гульбахар_Бегдуллаевна_page-0001.jpg'
+import img6 from '../assets/my-successes/Сертификат_page-0001.jpg'
+
 import { useEffect } from "react";
 
 const MySuccesses = () => {
@@ -76,6 +78,12 @@ const MySuccesses = () => {
                     className="gallery__item"
                 >
                     <img src={img5} alt="Развитие творческих навыков у учащихся в процессе проведения лабораторных работ по химии" />
+                </a>
+                <a
+                    href={img6} 
+                    className="gallery__item"
+                >
+                    <img src={img6} alt="Развитие творческих навыков у учащихся в процессе проведения лабораторных работ по химии" />
                 </a>
             </LightGallery>
         </div>

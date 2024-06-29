@@ -9,7 +9,7 @@ const Docs = () => {
                 <button className="py-2 px-4 border border-white mb-4 md:mb-0">Batafsil...</button>
             </div>
             <div>
-                <img src="./img/image_2024-06-26_15-51-22.png" alt="Virtual Humans" />
+                <img src="./img/image_2024-06-26_15-51-22.png" alt="App preview" />
             </div>
         </div>
     </div>
