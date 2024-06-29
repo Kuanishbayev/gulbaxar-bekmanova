@@ -1,8 +1,8 @@
 const Docs = () => {
   return (
-    <div className="h-screen bg-stone-50">
-        <div className="max-w-[1280px] mx-auto grid grid-cols-2 items-center gap-4">
-            <div>
+    <div className="min-h-screen bg-stone-50">
+        <div className="max-w-[1280px] mx-auto flex flex-col-reverse md:flex-row items-center gap-4">
+            <div className="md:w-1/2 px-4 md:px-0">
                 <h1 className="text-2xl font-bold mb-4">Virtual Kimyo Laboratoriyasi</h1>
                 <p className="mb-2 indent-8">"Virtual Kimyo Laboratoriyasi" ilovasi Windows platformasi uchun C# va WinForms texnologiyalaridan foydalangan holda ishlab chiqilgan innovatsion dasturiy ta'minotdir. Ushbu ilova foydalanuvchilarga xavfsiz va interaktiv muhitda kimyoviy tajribalarni amalga oshirish imkoniyatini yaratadi. Dastur kimyo fanini o‘rganayotgan talabalar, o‘qituvchilar va kimyoga qiziqadigan barcha uchun mo‘ljallangan.</p>
                 <p className="mb-2 indent-8">"Virtual Kimyo Laboratoriyasi" ilovasi foydalanuvchilarga kimyoviy tajribalarni o‘tkazish uchun qulay va xavfsiz vositani taqdim etadi. Bu ilova nafaqat nazariyani o'rganish, balki kimyoviy reaktsiyalarning o'tishini amalda ko'rish imkonini beradi. Zamonaviy texnologiyalar va puxta o'ylangan arxitekturadan foydalanish tufayli, ilova ta'lim va ilmiy tadqiqotlar uchun ishonchli va funksional vosita hisoblanadi.</p>
