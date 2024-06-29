@@ -83,7 +83,7 @@ const MySuccesses = () => {
                     href={img6} 
                     className="gallery__item"
                 >
-                    <img src={img6} alt="Развитие творческих навыков у учащихся в процессе проведения лабораторных работ по химии" />
+                    <img src={img6} alt="О регистрации доменного имени" />
                 </a>
             </LightGallery>
         </div>
