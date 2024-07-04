@@ -1,11 +1,11 @@
 import { FaFacebook, FaTwitter, FaYoutube } from 'react-icons/fa'
-import bioImg from '../assets/bio.jpg'
+import bioImg from '../assets/bio.png'
 import { Link } from 'react-router-dom'
 
 const Hero = () => {
   return (
     <section className='flex flex-col lg:flex-row justify-center items-center gap-[5rem] h-screen lg:-mt-20'>
-        <div className='rounded-full overflow-hidden border size-[200px] md:size-[300px] lg:size-[400px]'>
+        <div className='rounded-full overflow-hidden size-[200px] md:size-[300px] lg:size-[400px]'>
             <img src={bioImg} alt="Profile-image" />
         </div>
         <div className='font-bold flex flex-col gap-3 items-center'>

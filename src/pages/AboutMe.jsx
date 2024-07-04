@@ -1,4 +1,4 @@
-import bioImg from '../assets/bio.jpg'
+import bioImg from '../assets/bio.png'
 import { TypeAnimation } from 'react-type-animation'
 import {motion} from 'framer-motion'
 
