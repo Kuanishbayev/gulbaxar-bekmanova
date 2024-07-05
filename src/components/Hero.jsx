@@ -10,7 +10,7 @@ const Hero = () => {
         </div>
         <div className='font-bold flex flex-col gap-3 items-center'>
             <p className=' text-center text-gray-500'>Hello, I'm</p>
-            <h1 className='text-5xl text-center'>Gulbaxar Bekmanova</h1>
+            <h1 className='text-5xl text-center'>Gulbaxar Begdullaevna</h1>
             <p className='text-gray-500 text-3xl text-center'>PhD</p>
             <div className='flex gap-3 mt-2'>
                 {/* <Link to='my-projects' className='p-4 border-2 border-neutral-800 rounded-full text-neutral-800'>My Projects</Link> */}
